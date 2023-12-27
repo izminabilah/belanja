@@ -1,4 +1,4 @@
-body {
+.indexBody {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -7,4 +7,7 @@ body {
 }
 .center-form {
     text-align: center;
+}
+.collapse navbar-collapse{
+    display: flex !important;
 }
